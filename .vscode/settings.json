@@ -3,5 +3,10 @@
     "source.fixAll": "explicit",
     "source.organizeImports": "explicit",
     "source.sortMembers": "explicit"
-  }
+  },
+  "i18n-ally.localesPaths": [
+    "src/i18n",
+    "src/app/messages",
+    "src/i18n/locales"
+  ]
 }
