@@ -1,6 +1,6 @@
 # Riftcards
 
-A collection and trading app for Riftbound TCG players. Track your cards in binders, post sale and trade listings, and discover other players.
+A collection and trading app for Riftbound TCG players. Track your cards in binders, post sale and trade listings, and discover other players. The application is not completed yet.
 
 ## Tech Stack
 
